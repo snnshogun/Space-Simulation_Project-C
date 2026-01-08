@@ -10,5 +10,3 @@ C programlama dili ile geliştirilen bu konsol uygulaması, kullanıcıdan (bili
 * Modüler fonksiyon yapısı.
 * Ternary operatörü ile hata yönetimi ve mutlak değer dönüşümü.
 * Girdi doğrulama (Input Validation).
-
-Github: @snnshogun
